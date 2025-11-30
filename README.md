@@ -1,5 +1,29 @@
 ## Hi there 👋
 
+I'm Wafa, an aspiring software engineer based in the UAE.
+
+At the moment, I'm studying Computer Science with a focus on full-stack development.
+
+I'm always looking to learn something- be it a framework like React, or how to create a cool feature for an app or website.
+
+On the side, I love game development, pixel art, and platformers.
+
+
+## Tools & Tech
+
+* HTML, CSS, JavaScript
+* C, Python
+* Canva, Aseprite for graphics
+
+
+## A Bit about Me
+
+* :notebook_with_decorative_cover: I'm a quick reader
+* :tshirt: I can sew using a machine
+* :musical_note: I learn the ukulele sometimes
+* :video_game: Video games are always interesting to me
+* :gear: I like building things that are sleek, elegant, and useful
+
 <!--
 **waferling/waferling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
