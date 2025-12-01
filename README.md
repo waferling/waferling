@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Wafa, an aspiring software engineer based in the UAE.
+I'm Wafa, a software engineer based in the UAE.
 
 At the moment, I'm studying Computer Science with a focus on full-stack development.
 
