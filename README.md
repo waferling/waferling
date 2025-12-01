@@ -12,7 +12,7 @@ On the side, I love game development, pixel art, and platformers.
 ## Tools & Tech
 
 * HTML, CSS, JavaScript
-* C, Python
+* C, Python, React
 * Canva, Aseprite for graphics
 
 
