@@ -13,8 +13,7 @@ On the side, I love game development, pixel art, and platformers.
 
 * HTML, CSS, JavaScript
 * C, Python, React
-* Canva, Aseprite for graphics
-
+* SQL, TailwindCSS
 
 ## A Bit about Me
 
