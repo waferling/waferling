@@ -19,7 +19,6 @@ On the side, I love game development, pixel art, and platformers.
 
 * :notebook_with_decorative_cover: I'm a quick reader
 * :tshirt: I can sew using a machine
-* :musical_note: I learn the ukulele sometimes
 * :video_game: Video games are always interesting to me
 * :gear: I like building things that are sleek, elegant, and useful
 
